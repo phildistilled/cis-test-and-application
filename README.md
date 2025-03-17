@@ -10,3 +10,7 @@ https://github.com/cloudogu/CIS-Ubuntu-20.04
 
 A RHEL focused repository that includes test and apply scripts for RHEL 8
 https://github.com/rediculum/RHEL8_Lockdown
+
+Windows security check with NSFW comments
+https://github.com/Sneakysecdoggo/Wynis
+
