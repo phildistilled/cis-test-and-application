@@ -34,6 +34,7 @@ https://github.com/lyonys/AIX-Host-Review
 Application script
 https://github.com/prench/Hardening-CIS/tree/master
 
-
+All things event logs
+https://github.com/Yamato-Security/EnableWindowsLogSettings
 
 
